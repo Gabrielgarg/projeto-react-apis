@@ -29,6 +29,7 @@ Um projeto chamado Pokedex cuja intenção é treinar todo o conhecimento adquir
 ## Demonstração
 
 ![Surge](https://labenu-gabrielgg-pokedex.surge.sh/)
+![LINK](https://labenu-gabrielgg-pokedex.surge.sh/)
 
 ## Como rodar esse projeto?
 
