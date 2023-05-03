@@ -55,7 +55,7 @@ $ npm run start
 
 ## Pessoas Autoras
 
-<img style= "width:200px" src="![Foto de perfil](https://user-images.githubusercontent.com/111094464/235818169-a2c160dd-3fbc-46e2-b9a9-088000e10b2d.png)" alt="Imagem do desenvolvedor"></img>
+<img style= "width:200px" src="https://user-images.githubusercontent.com/111094464/235818169-a2c160dd-3fbc-46e2-b9a9-088000e10b2d.png" alt="Imagem do desenvolvedor"></img>
 
 [Linkedin](https://www.linkedin.com/in/gabriel-garuthi/) 
 
