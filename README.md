@@ -1,7 +1,5 @@
 # Projeto Pokedex
 
-![Foto de perfil](https://user-images.githubusercontent.com/111094464/235818087-37e1094a-8fef-4023-a327-858e79ef4297.png)
-
 ![Pokedex](./src/Imagens/Pokedex%20tela%20inicial.png)
 
 Um projeto chamado Pokedex cuja intenção é treinar todo o conhecimento adquirido atraves do curso.
@@ -57,7 +55,7 @@ $ npm run start
 
 ## Pessoas Autoras
 
-<img style= "width:200px" src="./src/Imagens/Foto%20de%20perfil.png" alt="Imagem do desenvolvedor"></img>
+<img style= "width:200px" src="![Foto de perfil](https://user-images.githubusercontent.com/111094464/235818169-a2c160dd-3fbc-46e2-b9a9-088000e10b2d.png)" alt="Imagem do desenvolvedor"></img>
 
 [Linkedin](https://www.linkedin.com/in/gabriel-garuthi/) 
 
