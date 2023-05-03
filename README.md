@@ -1,6 +1,6 @@
 # Projeto Pokedex
 
-![Pokedex](https://user-images.githubusercontent.com/111094464/235818271-d4df1177-aa55-471b-a1ce-2937693d43de.png)
+![Pokedex](https://user-images.githubusercontent.com/111094464/235818486-10a29bbd-b97b-4de1-a9c5-ee3428a6656a.png)
 
 
 Um projeto chamado Pokedex cuja intenção é treinar todo o conhecimento adquirido atraves do curso.
@@ -23,9 +23,10 @@ Um projeto chamado Pokedex cuja intenção é treinar todo o conhecimento adquir
 
 ## Layout
 
-![Tela de captura](./src/Imagens/Pokedex%20tela%20inicial.png)
-![Tela de capturados](./src/Imagens/pokedex%20tela%20de%20pokemon%20capturado.png)
-![Tela de detalhes](./src/Imagens/pokedex%20tela%20de%20detalhes.png)
+![Tela de captura](https://user-images.githubusercontent.com/111094464/235818486-10a29bbd-b97b-4de1-a9c5-ee3428a6656a.png)
+![Tela de capturados](https://user-images.githubusercontent.com/111094464/235818551-47417d7f-9fe2-46ac-892f-63979c5d4139.png)
+![Tela de detalhes](https://user-images.githubusercontent.com/111094464/235818271-d4df1177-aa55-471b-a1ce-2937693d43de.png)
+
 
 ## Demonstração
 
