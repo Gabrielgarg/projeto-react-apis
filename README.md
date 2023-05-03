@@ -1,5 +1,7 @@
 # Projeto Pokedex
 
+![Foto de perfil](https://user-images.githubusercontent.com/111094464/235818087-37e1094a-8fef-4023-a327-858e79ef4297.png)
+
 ![Pokedex](./src/Imagens/Pokedex%20tela%20inicial.png)
 
 Um projeto chamado Pokedex cuja intenção é treinar todo o conhecimento adquirido atraves do curso.
